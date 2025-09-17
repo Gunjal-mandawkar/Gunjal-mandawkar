@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Siddhi!  
+# Hi there 👋, I'm Gunjal!  
 
 🎓 **Computer Science Undergrad (2nd Year)**  
 💻 Exploring **Java, Python, DSA & Web Development**  
